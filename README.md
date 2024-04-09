@@ -6,3 +6,4 @@ Página para acesso às informações e materiais da monitoria de Macroeconomia 
 # Bibliografia
 
 [Krueger (2017)](https://github.com/lucisou/Monitoria-Macro1/raw/main/Krueger%20(2017).pdf)
+
