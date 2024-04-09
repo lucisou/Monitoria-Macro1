@@ -1,11 +1,14 @@
 # Monitoria de Macroeconomia I - Parte I (2024)
 Página para acesso às informações e materiais da monitoria de Macroeconomia I do PPGE da USP-FEA/RP
 
+# Tópicos Adicionais
+
+- Tutorial de instalação
 
 
 # Bibliografia
 
-[Krueger (2017)](https://github.com/lucisou/Monitoria-Macro1/raw/main/Krueger%20(2017).pdf)
+[Krueger (2017) - Macroeconomic Theory](https://github.com/lucisou/Monitoria-Macro1/raw/main/Krueger%20(2017).pdf)
 
 [Nancy L. Stokey , Robert E. Lucas Jr. , Edward C. Prescott - Recursive Methods in Economic Dynamics (1989)](https://github.com/lucisou/Monitoria-Macro1/raw/main/Nancy%20L.%20Stokey%20%2C%20Robert%20E.%20Lucas%20Jr.%20%2C%20Edward%20C.%20Prescott%20-%20Recursive%20Methods%20in%20Economic%20Dynamics.pdf)
 
