@@ -4,9 +4,12 @@ Página para acesso às informações e materiais da monitoria de Macroeconomia 
 ## Tópicos Adicionais
 
 - [Tutorial de instalação Python](https://github.com/lucisou/Monitoria-Macro1/blob/main/Tutorial-Instalacao-Python.pdf)
+- [Atalhos do Spyder](https://github.com/lucisou/Monitoria-Macro1/blob/main/SpyderKeyboardShortcutsEditor.pdf)
 - [Introdução à Computação com Python: um curso interativo](https://panda.ime.usp.br/cc110/static/cc110/index.html)
 
-
+### Coursera
+- [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) com Fábio Kon (IME-USP)
+- [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) com Fábio Kon (IME-USP)
 
 # Bibliografia
 
