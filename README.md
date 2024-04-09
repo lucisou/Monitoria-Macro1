@@ -3,7 +3,7 @@ Página para acesso às informações e materiais da monitoria de Macroeconomia 
 
 ## Tópicos Adicionais
 
-- Tutorial de instalação
+- [Tutorial de instalação Python](https://github.com/lucisou/aulas/raw/main/Tutorial-Instalacao-Python.pdf)
 
 
 # Bibliografia
