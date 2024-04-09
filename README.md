@@ -1,6 +1,9 @@
 # Monitoria de Macroeconomia I - Parte I (2024)
 Página para acesso às informações e materiais da monitoria de Macroeconomia I do PPGE da USP-FEA/RP
 
+## Avisos
+- Alteração do dia da monitoria: Agora será todas as Quartas, das 10h às 11h, Sala 07-B2
+
 ## Tópicos Adicionais
 
 - [Tutorial de instalação Python](https://github.com/lucisou/Monitoria-Macro1/blob/main/Tutorial-Instalacao-Python.pdf)
@@ -11,7 +14,7 @@ Página para acesso às informações e materiais da monitoria de Macroeconomia 
 - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) com Fábio Kon (IME-USP)
 - [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) com Fábio Kon (IME-USP)
 
-# Bibliografia
+## Bibliografia
 
 [Krueger - Macroeconomic Theory (2017)](https://github.com/lucisou/Monitoria-Macro1/raw/main/Krueger%20(2017).pdf)
 
