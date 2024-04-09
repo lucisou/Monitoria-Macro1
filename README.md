@@ -4,6 +4,7 @@ Página para acesso às informações e materiais da monitoria de Macroeconomia 
 ## Tópicos Adicionais
 
 - [Tutorial de instalação Python](https://github.com/lucisou/Monitoria-Macro1/blob/main/Tutorial-Instalacao-Python.pdf)
+- [Introdução à Computação com Python: um curso interativo](https://panda.ime.usp.br/cc110/static/cc110/index.html)
 
 
 
