@@ -2,7 +2,7 @@
 Página para acesso às informações e materiais da monitoria de Macroeconomia I do PPGE da USP-FEA/RP
 
 ## Avisos
-- Alteração do dia da monitoria: Os econtros serão todas as Quartas, das 10h às 11h, Sala LEIA I
+- Alteração do dia da monitoria: Os encontros serão todas as Quartas, das 10h às 11h, Sala LEIA I
 
 ## Tópicos Adicionais
 
